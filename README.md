@@ -4,7 +4,9 @@ La technique utilisée actuelement est la cross corelation.
 
 # Installation
 Afin de récuperer le travaille réalisé vous pouvez utilisé cette commande : 
-  > git clone https://github.com/Nigma141/Pjt-3A 
+   ```sh
+  git clone https://github.com/Nigma141/Pjt-3A 
+   ``` 
 
 # Organisation
 
