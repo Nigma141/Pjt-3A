@@ -1,3 +1,13 @@
+# Résumer
+Le projet vise à déterminer la vitesse d'un convoyeur à bande à l'aide d'une caméra.
+La technique utilisée actuelement est la cross corelation.
+
+# Installation
+Afin de récuperer le travaille réalisé vous pouvez utilisé cette commande : 
+  git clone https://github.com/Nigma141/Pjt-3A 
+
+# Organisation
+
 Les ficihers sont classés dans différentes catégories: 
 
 * Documents : regroupe toute la documentation utilisée lors du PJT 
