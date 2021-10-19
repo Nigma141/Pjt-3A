@@ -14,8 +14,8 @@ Les ficihers sont classés dans différentes catégories:
 
 * Documents : regroupe toute la documentation utilisée lors du PJT 
 
-* Rapport   : regroupe l'ensemble des livrables c'est a dire rapport de seances et jalons 
+* Rapport   : regroupe l'ensemble des livrables c'est à dire rapport de seances et jalons 
 
-* Images    : regroupe les ressources utilent aux différents code 
+* Images    : regroupe les ressources utilent aux différents codes
 
 * venv      : l'envirronnement python 
