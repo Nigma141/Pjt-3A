@@ -3,7 +3,7 @@ Le projet vise à déterminer la vitesse d'un convoyeur à bande à l'aide d'une
 La technique utilisée actuelement est la cross corelation.
 
 # Installation
-Afin de récuperer le travaille réalisé vous pouvez utilisé cette commande : 
+Afin de récuperer le travail réalisé vous pouvez utiliser cette commande : 
    ```sh
   git clone https://github.com/Nigma141/Pjt-3A 
    ``` 
